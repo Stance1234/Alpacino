@@ -1,0 +1,17 @@
+{
+  "name": "roger",
+  "version": "1.0.0",
+  "description": "Ecomm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "evershop install",
+    "build": "evershop build",
+    "start": "evershop start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@evershop/evershop": "^1.1.0"
+  }
+}
